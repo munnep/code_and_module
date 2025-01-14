@@ -1,1 +1,1 @@
-resource "null_resourse" "vpc" {}
+resource "null_resource" "vpc" {}
